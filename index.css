@@ -1,2 +1,2 @@
-@import "suitcss-utils-after";
-@import "suitcss-utils-before";
+@import "./node_modules/suitcss-utils-after/index.css";
+@import "./node_modules/suitcss-utils-before/index.css";
